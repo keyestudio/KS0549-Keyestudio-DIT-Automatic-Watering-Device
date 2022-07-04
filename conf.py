@@ -17,15 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-<<<<<<< HEAD
-project = 'Kit for arduino'
-copyright = 'keyestudio'
-author = 'keyestudio'
-=======
 project = 'keyestudio WiKi'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
->>>>>>> dcc9bc1c40b8d588cc2681212691e207d13591da
 
 # -- General configuration ---------------------------------------------------
 
