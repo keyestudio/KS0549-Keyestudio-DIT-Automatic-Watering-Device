@@ -1,0 +1,13 @@
+=========
+6. Projects
+=========
+
+.. toctree::
+    :maxdepth: 1
+
+    Projects/Project1
+    Projects/Project2
+    Projects/Project3
+    Projects/Project4
+    Projects/Project5
+    Projects/Project6

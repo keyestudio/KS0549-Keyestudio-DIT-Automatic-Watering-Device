@@ -1,9 +1,10 @@
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
    :caption: KS0549 Keyestudio DIY Electronic Watering Kit
 
-   KS0549.md
+   docs/Keyestudio DIY Electronic Watering Kit
+   docs/KS0549.rst
 
 
 
